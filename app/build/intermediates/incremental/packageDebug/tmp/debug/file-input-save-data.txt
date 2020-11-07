@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Nov 07 13:23:42 MST 2020
+0.baseType=DIRECTORY
+0.base=F\:\\_Study\\Android\\PodPlay\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

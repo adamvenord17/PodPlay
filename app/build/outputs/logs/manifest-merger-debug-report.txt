@@ -1,0 +1,288 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f56eb703c7cf078afb70ad51feaa41ed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\261544a9bbf245ad3e17f98946d0d9fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7e781a93647ad5732fb4eb17a50e8d67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8e15977e60e9fde046c20fa010a7fcb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\63bb1f4d1ca262134e49de2c2474e27b\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\34393f5e2164eeb0f0eae71ccd7038c6\AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ea33f48155b38f254cddfdf647b4fb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\221fc621a941f8ad1953314c179b4db8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b9b59a6d25450c89a1f6af8ee63a782f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de26adeaf1d7af0d40a95ad2ebf6aeb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9ec2ce1e54033b1729307c0bba18a129\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\629ee408d8b7fbe5e1efb1a672854072\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\bc5fa5543a14189cc46f3b2a0c7d8a69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\781f1b46e859053dfea419ed0bfad0c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca0614d9c8aa0a1ea0ac96a90e4caa33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d0147b961fad7bc2b2fe32e833ba9f94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\86cb2aa945ac573190fd772fa98560e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c9366e5b4b32fa22ffb39aaa509809d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68efa230fc27cc28ca17d1e2125e4855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e0fdc019865c1f306d71b88baa05b6f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\19a014a6a1a3a34dd3297906c86572b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\534f5a507306f0ea172639a293ca9e25\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac8b56b2c0e4a0c924b937808b035991\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef8581b1d84a8fa37fb056c9095cb8f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ae18c4204e55c33dc5dcfbc05960dd82\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2c856ab9ebf0ce59ad763e28b1f9c9fe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e910aca9e5e0c330a84b31bfcd9e4e55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fbdd85732f17d9e3c977bc7254173474\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\245c22319d1f3af1d160e7f6ecbe7f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\314072c45b1852a8e11d327d1093b927\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26f2e692252e934c621c821c2ee9fcc3\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\d23d0cfc8a5491aa35edf2c67e1eb714\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\4114151f01127693596991f54890cf2c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4250eb76cc01b854c454d5fbebe60775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9e6efc7c980a96d58a0488f866dde92d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d8f7ddef0e72b9b5b5c40690d4d6006c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6be143b6ab7ec68208e3ec6af456695a\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:11-40
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:5:3-64
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:5:20-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:6:3-78
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:7:3-74
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:7:20-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:8:3-65
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:8:20-63
+application
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:10:3-51:17
+MERGED from [com.android.support:design:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f56eb703c7cf078afb70ad51feaa41ed\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f56eb703c7cf078afb70ad51feaa41ed\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\63bb1f4d1ca262134e49de2c2474e27b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\63bb1f4d1ca262134e49de2c2474e27b\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:22:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\34393f5e2164eeb0f0eae71ccd7038c6\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\34393f5e2164eeb0f0eae71ccd7038c6\AndroidManifest.xml:10:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\534f5a507306f0ea172639a293ca9e25\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\534f5a507306f0ea172639a293ca9e25\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac8b56b2c0e4a0c924b937808b035991\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac8b56b2c0e4a0c924b937808b035991\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26f2e692252e934c621c821c2ee9fcc3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26f2e692252e934c621c821c2ee9fcc3\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\534f5a507306f0ea172639a293ca9e25\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:15:7-33
+	android:label
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:13:7-39
+	android:roundIcon
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:14:7-52
+	android:icon
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:11:7-33
+	android:theme
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:16:7-38
+	android:usesCleartextTraffic
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:17:7-42
+activity#com.avenord.podplay.ui.PodcastActivity
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:18:5-28:16
+	android:launchMode
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:19:9-39
+	android:theme
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:18:15-49
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.SEARCH+category:name:android.intent.category.LAUNCHER
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:22:17-58
+action#android.intent.action.SEARCH
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:23:17-60
+category#android.intent.category.LAUNCHER
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:24:19-66
+meta-data#android.app.searchable
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:26:7-27:45
+	android:resource
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:26:18-55
+service#com.avenord.podplay.service.EpisodeUpdateService
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:30:5-36:15
+	android:exported
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:32:9-53
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:33:7-35:23
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:34:9-75
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:34:17-73
+service#com.avenord.podplay.service.PodplayMediaService
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:38:5-42:15
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:38:14-57
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:39:7-41:23
+action#android.media.browse.MediaBrowserService
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:40:9-75
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:40:17-72
+receiver#android.support.v4.media.session.MediaButtonReceiver
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:44:5-49:16
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:45:9-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:46:7-48:23
+action#android.intent.action.MEDIA_BUTTON
+ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:47:9-69
+	android:name
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml:47:17-66
+uses-sdk
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f56eb703c7cf078afb70ad51feaa41ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\f56eb703c7cf078afb70ad51feaa41ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\261544a9bbf245ad3e17f98946d0d9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\261544a9bbf245ad3e17f98946d0d9fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7e781a93647ad5732fb4eb17a50e8d67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\7e781a93647ad5732fb4eb17a50e8d67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8e15977e60e9fde046c20fa010a7fcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\8e15977e60e9fde046c20fa010a7fcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\63bb1f4d1ca262134e49de2c2474e27b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\63bb1f4d1ca262134e49de2c2474e27b\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\34393f5e2164eeb0f0eae71ccd7038c6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\34393f5e2164eeb0f0eae71ccd7038c6\AndroidManifest.xml:6:5-8:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ea33f48155b38f254cddfdf647b4fb0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8ea33f48155b38f254cddfdf647b4fb0\AndroidManifest.xml:20:5-44
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\221fc621a941f8ad1953314c179b4db8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\221fc621a941f8ad1953314c179b4db8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b9b59a6d25450c89a1f6af8ee63a782f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b9b59a6d25450c89a1f6af8ee63a782f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de26adeaf1d7af0d40a95ad2ebf6aeb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\de26adeaf1d7af0d40a95ad2ebf6aeb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9ec2ce1e54033b1729307c0bba18a129\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9ec2ce1e54033b1729307c0bba18a129\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\629ee408d8b7fbe5e1efb1a672854072\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\629ee408d8b7fbe5e1efb1a672854072\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\bc5fa5543a14189cc46f3b2a0c7d8a69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\bc5fa5543a14189cc46f3b2a0c7d8a69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\781f1b46e859053dfea419ed0bfad0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\781f1b46e859053dfea419ed0bfad0c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca0614d9c8aa0a1ea0ac96a90e4caa33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca0614d9c8aa0a1ea0ac96a90e4caa33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d0147b961fad7bc2b2fe32e833ba9f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\d0147b961fad7bc2b2fe32e833ba9f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\86cb2aa945ac573190fd772fa98560e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\86cb2aa945ac573190fd772fa98560e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c9366e5b4b32fa22ffb39aaa509809d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c9366e5b4b32fa22ffb39aaa509809d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68efa230fc27cc28ca17d1e2125e4855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68efa230fc27cc28ca17d1e2125e4855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e0fdc019865c1f306d71b88baa05b6f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e0fdc019865c1f306d71b88baa05b6f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\19a014a6a1a3a34dd3297906c86572b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\19a014a6a1a3a34dd3297906c86572b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\534f5a507306f0ea172639a293ca9e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\534f5a507306f0ea172639a293ca9e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac8b56b2c0e4a0c924b937808b035991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ac8b56b2c0e4a0c924b937808b035991\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef8581b1d84a8fa37fb056c9095cb8f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ef8581b1d84a8fa37fb056c9095cb8f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ae18c4204e55c33dc5dcfbc05960dd82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\ae18c4204e55c33dc5dcfbc05960dd82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2c856ab9ebf0ce59ad763e28b1f9c9fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2c856ab9ebf0ce59ad763e28b1f9c9fe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e910aca9e5e0c330a84b31bfcd9e4e55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e910aca9e5e0c330a84b31bfcd9e4e55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fbdd85732f17d9e3c977bc7254173474\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fbdd85732f17d9e3c977bc7254173474\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\245c22319d1f3af1d160e7f6ecbe7f5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\245c22319d1f3af1d160e7f6ecbe7f5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\314072c45b1852a8e11d327d1093b927\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\314072c45b1852a8e11d327d1093b927\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26f2e692252e934c621c821c2ee9fcc3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26f2e692252e934c621c821c2ee9fcc3\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\d23d0cfc8a5491aa35edf2c67e1eb714\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\d23d0cfc8a5491aa35edf2c67e1eb714\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\4114151f01127693596991f54890cf2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\4114151f01127693596991f54890cf2c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4250eb76cc01b854c454d5fbebe60775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4250eb76cc01b854c454d5fbebe60775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9e6efc7c980a96d58a0488f866dde92d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9e6efc7c980a96d58a0488f866dde92d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d8f7ddef0e72b9b5b5c40690d4d6006c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\d8f7ddef0e72b9b5b5c40690d4d6006c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6be143b6ab7ec68208e3ec6af456695a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6be143b6ab7ec68208e3ec6af456695a\AndroidManifest.xml:20:5-44
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		ADDED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+		INJECTED from F:\_Study\Android\PodPlay\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\5e33393463fd9a2ae118edacc7263c2e\AndroidManifest.xml:24:13-83
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.5] C:\Users\malon\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.5.aar\f74b631b6fc09c1b943165333fea42e8\AndroidManifest.xml:37:25-84
